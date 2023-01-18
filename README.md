@@ -13,3 +13,5 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 cd ./insta2 && sudo ./install_instancia
 ```
 
+SE FIZER ALTERAÇÃO NO FRONTEND ou BACKEND UTILIZAR
+su deploy -> /home/empresa/frontend/npm run build
